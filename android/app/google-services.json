@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "110674076927",
+    "project_id": "oneprinciple-d88d1",
+    "storage_bucket": "oneprinciple-d88d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110674076927:android:641dc01d215898f64458ca",
+        "android_client_info": {
+          "package_name": "com.principlecleaning.oneprinciple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110674076927-59gdtshs4b5bk4i3sktq4mf7tlsqroe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG-9bKOIrB3jN4ZykzaAXzcpKPVOY_yDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110674076927-59gdtshs4b5bk4i3sktq4mf7tlsqroe0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110674076927-di0q4q4h5v6ubkoermh0uld8gcgv1jhr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.principlecleaning.oneprinciple"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
