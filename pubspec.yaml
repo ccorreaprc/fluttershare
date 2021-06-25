@@ -50,6 +50,7 @@ flutter:
       fonts:
         - asset: assets/fonts/Signatra.ttf
   assets:
+    - assets/images/logo.png
     - assets/images/google_signin_button.png
     - assets/images/upload.svg
     - assets/images/search.svg
